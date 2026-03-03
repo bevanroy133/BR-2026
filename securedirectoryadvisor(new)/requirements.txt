@@ -1,0 +1,11 @@
+# All core features work with the Python standard library only.
+# Install these for full functionality:
+
+# Modern UI toolkit — rounded corners, dark mode support, contemporary look
+customtkinter>=5.2.0
+
+# Secure OS-keychain storage of API keys (recommended)
+keyring>=25.0.0
+
+# Safe file deletion — sends files to Recycle Bin / Trash instead of permanent delete
+send2trash>=1.8.0
